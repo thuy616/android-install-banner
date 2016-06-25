@@ -40,6 +40,6 @@
       "id": "com.detour.detour"
     }
   ],
-  "start_url": "./*.html",
+  "start_url": "./index.html",
   "display": "standalone"
 }
