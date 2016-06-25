@@ -1,5 +1,7 @@
-Native App Install Banner for Website
+App Install Banner Sample
 ===
+
+See https://googlechrome.github.io/samples/app-install-banner/related-applications/index.html for a live demo.
 
 
 #### Directions:
