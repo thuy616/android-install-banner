@@ -1,6 +1,6 @@
 {
-  "name": "App Install Banner Sample",
-  "short_name": "App Install Banner Sample",
+  "name": "App Install Banner",
+  "short_name": "App",
   "icons": [
     {
       "src": "launcher-icon-0-75x.png",
@@ -37,7 +37,7 @@
   "related_applications": [
     {
       "platform": "play",
-      "id": "com.whatsapp"
+      "id": "com.google.samples.apps.iosched"
     }
   ],
   "start_url": "./index.html",
