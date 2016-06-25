@@ -37,7 +37,7 @@
   "related_applications": [
     {
       "platform": "play",
-      "id": "com.detour.detour"
+      "id": "com.whatsapp"
     }
   ],
   "start_url": "./index.html",
